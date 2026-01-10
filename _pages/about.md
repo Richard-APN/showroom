@@ -154,9 +154,3 @@ Enseignements universitaires professionnalisés :
 + Génie Électrique et Informatique Industrielle.
 
 
-
-
-
-
-Utilisation de la réalité virtuelle
-Le logiciel Factory I/O complète l’installation. 
