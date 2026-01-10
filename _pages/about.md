@@ -33,18 +33,18 @@ Implémenté
 
 Il met en œuvre
 
-•	les bus de terrain : MODBUS TCP-IP et ETHERCAT 
-•	Les technologies de sécurité Flexi Soft et Flexi Loop, (développées par SICK)
-•	le protocole de communication IO Link
-•	les langages de programmation conformes à la norme IEC 61131-3
-•	l’outil de programmation Node-Red 
-•	la supervision dans le cadre du dialogue homme machine.
+	•	les bus de terrain : MODBUS TCP-IP et ETHERCAT 
+	•	Les technologies de sécurité Flexi Soft et Flexi Loop, (développées par SICK)
+	•	le protocole de communication IO Link
+	•	les langages de programmation conformes à la norme IEC 61131-3
+	•	l’outil de programmation Node-Red 
+	•	la supervision dans le cadre du dialogue homme machine.
 
 Il comporte pour sa partie opérative (Motion Control)
-•	Un contrôleur d’axe pour machines brushless
-•	Deux contrôleurs d’axe pour machines Pas à Pas
-•	Un variateur de vitesse pour machines asynchrones
-•	Pilotés par un API, « maitre » pour la communication ETHERCAT et « serveur » pour la communication MODBUD TCP-IP.
+	•	Un contrôleur d’axe pour machines brushless
+	•	Deux contrôleurs d’axe pour machines Pas à Pas
+	•	Un variateur de vitesse pour machines asynchrones
+	•	Pilotés par un API, « maitre » pour la communication ETHERCAT et « serveur » pour la communication MODBUD TCP-IP.
 
 Utilisation de la réalité virtuelle
 Le logiciel Factory I/O complète l’installation. 
