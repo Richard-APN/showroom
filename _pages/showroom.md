@@ -1,7 +1,7 @@
 ---
 permalink: /portfolio/
 title: "Démonstrateur APN AUTOMATION 2026"
-author_profile: true
+author_profile: false
 ---
 
 Ce site présente les applications liées à
