@@ -13,24 +13,23 @@ l’automatisme industriel développées avec le démonstrateur.
 
 Le démonstrateur APN AUTOMATION a été réalisé en conformité avec 
 
-•	La norme IEC 62443 : le référentiel pour la cybersécurité industrielle
-
-•	La directive 2006/42/CE (qui sera prochainement remplacée par le règlement (UE) 2023/1230 du parlement européen) pour la Sécurité Machine.
+	•	La norme IEC 62443 : le référentiel pour la cybersécurité industrielle
+	•	La directive 2006/42/CE (qui sera prochainement remplacée par le règlement (UE) 2023/1230 du parlement européen) pour la Sécurité Machine.
 
 Il a été pensé en 7 parties principales :
 
-•	Industrie 4.0
-•	Sécurité machine
-•	IO Link
-•	Motion control
-•	Cybersécurité
-•	Réalité augmentée
-•	Vision.
+	•	Industrie 4.0
+	•	Sécurité machine
+	•	IO Link
+	•	Motion control
+	•	Cybersécurité
+	•	Réalité augmentée
+	•	Vision.
 
 Implémenté 
 
-•	De la réalité virtuelle  associée au domaine industriel pour mettre en contexte les exemples d’automatismes proposés
-•	D’intelligence Artificielle à partir de modèles  de Machine Learning utilisés dans le cas de tris de pièces.
+	•	De la réalité virtuelle  associée au domaine industriel pour mettre en contexte les exemples d’automatismes proposés
+	•	D’intelligence Artificielle à partir de modèles  de Machine Learning utilisés dans le cas de tris de pièces.
 
 Il met en œuvre
 
