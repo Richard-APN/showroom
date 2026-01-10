@@ -55,6 +55,7 @@ Le logiciel Factory I/O complète l’installation.
 
 Il permet de visualiser le contexte industriel dans lequel les composants du showroom sont utilisés.
 On pourra créer des scénarios pour simuler les commandes homme machine ; visualiser l’action de la reconnaissance de pièces par l’Intelligence Artificielle ; configurer une interface MODBUS.
+
 Intérêts pédagogiques 
 
 •	Sécurité Machine :
