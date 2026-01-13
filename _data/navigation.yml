@@ -5,6 +5,12 @@ main:
 
   - title: "Démonstrateur"
     url: https://richard-apn.github.io/showroom/portfolio/
+        - title: "Projet 1"
+        url: https://richard-apn.github.io/showroom/portfolio/projet1/
+      - title: "Projet 2"
+        url: https://richard-apn.github.io/showroom/portfolio/projet2/
+      - title: "Projet 3"
+        url: https://richard-apn.github.io/showroom/portfolio/projet3/
 
   - title: "Public scolaire"
     url: https://richard-apn.github.io/showroom/public/
