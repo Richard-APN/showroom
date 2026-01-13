@@ -1,6 +1,8 @@
-layout: default
-title: Logiciels utilisés
-permalink: /publics/
+---
+permalink: /public/
+title: "Showroom APN AUTOMATION 2026"
+author_profile: true
+---
 
 #Publics scolaires concernés
 
