@@ -1,15 +1,15 @@
 main:
   - title: "Accueil"
-    url: https://richard-apn.github.io/showroom/
+    url: /
 
   - title: "Showroom"
-    url: https://richard-apn.github.io/showroom/portfolio/
+    url: /portfolio/
 
   - title: "TATA"
-    url: https://richard-apn.github.io/showroom/
+    url: /
 
   - title: "TOTO"
-    url: https://richard-apn.github.io/showroom/
+    url: /
 
   - title: "Logiciels utilisés"
-    url: https://richard-apn.github.io/showroom/
+    url: /
