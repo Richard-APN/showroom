@@ -4,7 +4,7 @@ title: "Publics scolaires concernés"
 author_profile: true
 ---
 
-#Enseignements professionnels pré-baccalauréat :
+##Enseignements professionnels pré-baccalauréat :
 + Seconde professionnelle des métiers
 + Bac pro MELEC (Métiers de l’Electricité et de ses Environnements Connectés)
 + Bac pro CIEL (Cybersécurité, Informatique et réseaux, Electronique)
