@@ -7,11 +7,11 @@ main:
     url: https://richard-apn.github.io/showroom/portfolio/
 
   - title: "Public scolaire"
-    url: https://richard-apn.github.io/showroom/public
+    url: https://richard-apn.github.io/showroom/public/
 
   - title: "TOTO"
     url: /toto/
 
   - title: "Logiciels utilisés"
-    url: https://richard-apn.github.io/showroom/logiciels
+    url: https://richard-apn.github.io/showroom/logiciels/
 
