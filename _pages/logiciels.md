@@ -1,8 +1,9 @@
 ---
-permalink: /Portfolio/portfolio1
+permalink: /logiciels/
 title: "Logiciels utilisés"
 author_profile: false
 ---
+# Logiciels utilisés
 
 + Outil de programmation NOD RED
 + Sysmac Studio (OMRON)
