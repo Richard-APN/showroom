@@ -5,8 +5,8 @@ main:
 
   - title: "Démonstrateur"
     url: https://richard-apn.github.io/showroom/portfolio/
-    children:
-       - title: "Projet 1"
+    submenu:
+      - title: "Projet 1"
         url: https://richard-apn.github.io/showroom/portfolio/projet1/
       - title: "Projet 2"
         url: https://richard-apn.github.io/showroom/portfolio/projet2/
