@@ -1,7 +1,7 @@
 ---
 permalink: /logiciels/
 title: "Logiciels utilisés"
-author_profile: false
+author_profile: true
 ---
 ---
 + Outil de programmation NOD RED
