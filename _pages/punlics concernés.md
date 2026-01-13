@@ -3,6 +3,7 @@ permalink: /public/
 title: "Publics scolaires concernés"
 author_profile: true
 ---
+---
 
 # Enseignements professionnels pré-baccalauréat :
 + Seconde professionnelle des métiers
@@ -19,8 +20,8 @@ author_profile: true
 + BTS CRSA (Conception et Réalisation de Systèmes Automatiques)
 + BTS CIRA (Contrôle Industriel et Régulation Automatique)
 + BTS PP (Pilotage de procédés).
-  
- # Enseignements technologiques :
+
+# Enseignements technologiques :
 + Bac STI2D, spécialité Énergie et Environnement
 + Bac spécialité SI.
   
