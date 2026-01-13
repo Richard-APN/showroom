@@ -8,8 +8,8 @@ main:
   - title: "Contact / À propos"
     url: /about/
 
-     title: "TOTO"
+  - title: "TOTO"
     url: /about/
 
- title: "Logiciels utilisés"
+ - title: "Logiciels utilisés"
     url: /about/
