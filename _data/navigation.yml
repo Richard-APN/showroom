@@ -1,15 +1,13 @@
 main:
   - title: "Accueil"
-    url: https://richard-apn.github.io/showroom/
+    url: /
 
   - title: "Showroom"
-    url: https://richard-apn.github.io/showroom/portfolio/
+    children:
+      - title: "Portfolio"
+        url: /portfolio/
+      - title: "Logiciels utilisés"
+        url: /logiciels/
 
-  - title: "Contact / À propos"
-    url: /about/
-
-  - title: "TOTO"
-    url: /about/
-
-  - title: "Logiciels utilisés"
+  - title: "À propos"
     url: /about/
