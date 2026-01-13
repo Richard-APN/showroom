@@ -1,6 +1,5 @@
 main:
-  - title: "🚨 MENU TEST 🚨"
-    url: /
+  
   - title: "Accueil"
     url: https://richard-apn.github.io/showroom/
 
@@ -14,4 +13,5 @@ main:
     url: /about/
 
   - title: "Logiciels utilisés"
-    url: /about/
+    url: https://richard-apn.github.io/showroom/portfolio/
+
