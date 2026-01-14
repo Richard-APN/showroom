@@ -11,11 +11,11 @@ author_profile: true
 
  ---
 
- ## [Evolution de l'industrie](https://richard-apn.github.io/showroom/evolution_industrie/)
+## [Evolution de l'industrie](https://richard-apn.github.io/showroom/evolution_industrie/)
 
  ----
 
- [Sécurité machine](https://richard-apn.github.io/showroom/secu_machine_1/)
+## [Sécurité machine](https://richard-apn.github.io/showroom/secu_machine_1/)
 
 <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/10dfa148-6390-4cd8-a0d3-bd9299905fa9" />
 
