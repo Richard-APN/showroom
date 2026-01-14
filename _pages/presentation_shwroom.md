@@ -1,5 +1,5 @@
 ---
-permalink: /showroom/
+permalink: /demonstrateur/
 title: "Le showroom"
 author_profile: true
 ---
