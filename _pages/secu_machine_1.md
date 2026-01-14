@@ -8,5 +8,5 @@ author_profile: true
 
 
 ----
-[Téléchargement du fichier powerpoint SECURITE MACHINE](http://richard-apn.github.io/showroom/files/SHOW-ROOM-SECU-machine-RIRI.ppsx)
-[Téléchargement du fichier powerpoint MACHINE D'ETATS](http://richard-apn.github.io/showroom/files/SHOW-ROOM-UTILISATION-RIRI.ppsm)
+- [Téléchargement du fichier powerpoint SECURITE MACHINE](http://richard-apn.github.io/showroom/files/SHOW-ROOM-SECU-machine-RIRI.ppsx)
+- [Téléchargement du fichier powerpoint MACHINE D'ETATS](http://richard-apn.github.io/showroom/files/SHOW-ROOM-UTILISATION-RIRI.ppsm)
