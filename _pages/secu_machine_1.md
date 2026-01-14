@@ -8,3 +8,4 @@ author_profile: true
 
 
 ----
+[files/SHOW-ROOM-SECU-machine-RIRI.ppsx](http://richard-apn.github.io/showroom/files/SHOW-ROOM-SECU-machine-RIRI.ppsx)
