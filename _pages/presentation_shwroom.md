@@ -11,7 +11,7 @@ author_profile: true
 
 # [Présentation générale](https://richard-apn.github.io/showroom/presentation_demonstrateur/)
 
-# [Evolution de l'industrie]
+# [Evolution de l'industrie](https://richard-apn.github.io/showroom/evolution_industrie/)
 
 # [Sécurité machine]
 
