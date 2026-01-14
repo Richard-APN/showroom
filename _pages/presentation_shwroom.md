@@ -39,5 +39,5 @@ author_profile: true
 
 # [Cybersécurité]
 
-<img width="452" height="307" alt="image" src="https://github.com/user-attachments/assets/068c0dff-6d1a-4d1f-a1ee-08f5fc54ce7b" />
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/068c0dff-6d1a-4d1f-a1ee-08f5fc54ce7b" />
 
