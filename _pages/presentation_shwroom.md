@@ -5,23 +5,24 @@ author_profile: true
 ---
 
 
+
 [**Présentation générale**](https://richard-apn.github.io/showroom/presentation_demonstrateur/)
 
 <img width="1063" height="532" alt="image" src="https://github.com/user-attachments/assets/19e961d6-792c-4afd-a659-3718825b4bb0" />
 
  ---
 
- [Evolution de l'industrie](https://richard-apn.github.io/showroom/evolution_industrie/)
+ [**Evolution de l'industrie**](https://richard-apn.github.io/showroom/evolution_industrie/)
 
  ----
 
- [Sécurité machine](https://richard-apn.github.io/showroom/secu_machine_1/)
+ [**Sécurité machine**](https://richard-apn.github.io/showroom/secu_machine_1/)
 
 <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/10dfa148-6390-4cd8-a0d3-bd9299905fa9" />
 
 ----
 
-# [Motion control](https://richard-apn.github.io/showroom/motion_control_1/)
+## [Motion control](https://richard-apn.github.io/showroom/motion_control_1/)
 
 <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/32ecf47c-fa86-4531-8e85-75230e9b3995" />
 
