@@ -19,7 +19,7 @@ author_profile: true
 
 # [Motion control](https://richard-apn.github.io/showroom/motion_control_1/)
 
-<img width="441" height="346" alt="image" src="https://github.com/user-attachments/assets/32ecf47c-fa86-4531-8e85-75230e9b3995" />
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/32ecf47c-fa86-4531-8e85-75230e9b3995" />
 
 # [Industrie 4.0]
 
@@ -27,11 +27,11 @@ author_profile: true
 
 # [Vision]
 
-<img width="392" height="290" alt="image" src="https://github.com/user-attachments/assets/dde71a02-3af6-4d64-89fe-74864a4dfe11" />
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/dde71a02-3af6-4d64-89fe-74864a4dfe11" />
 
 # [Réalité augmentée]
 
-<img width="510" height="290" alt="image" src="https://github.com/user-attachments/assets/7e9716df-0443-4af9-8844-cc0343cdd1aa" />
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/7e9716df-0443-4af9-8844-cc0343cdd1aa" />
 
 # [Réalité virtuelle]
 
