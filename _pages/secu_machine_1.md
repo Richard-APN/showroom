@@ -4,6 +4,7 @@ title: "Sécurité machine"
 author_profile: true
 ---
 -----
-<img width="1457" height="796" alt="image" src="https://github.com/user-attachments/assets/be7a07b3-da98-465d-9098-b602f6159fa4" />
+<img width="1590" height="795" alt="image" src="https://github.com/user-attachments/assets/19009f3a-796e-4502-a4ed-620e7cf923fd" />
+
 
 ----
