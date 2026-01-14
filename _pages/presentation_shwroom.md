@@ -27,7 +27,7 @@ author_profile: true
 
 # [Vision]
 
-<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/dde71a02-3af6-4d64-89fe-74864a4dfe11" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/dde71a02-3af6-4d64-89fe-74864a4dfe11" />
 
 # [Réalité augmentée]
 
