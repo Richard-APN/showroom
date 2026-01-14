@@ -13,7 +13,7 @@ author_profile: true
 
 # [Evolution de l'industrie](https://richard-apn.github.io/showroom/evolution_industrie/)
 
-# [Sécurité machine]
+# [Sécurité machine](https://richard-apn.github.io/showroom/secu_machine_1/)
 
 # [Motion control]
 
