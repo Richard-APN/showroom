@@ -23,14 +23,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Riri"
+  avatar           : "IMG SHOW PPT.png"
+  name             : "Richard Martinez"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Assesseur pédagogique APN AUTOMATION"
+  location         : "Nice, Carros"
+  employer         : "APN AUTOMATION"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "richard.martinez34@gmail.com" 
 
   # Academic websites
   academia         : # URL
