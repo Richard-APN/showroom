@@ -1,16 +1,16 @@
 main:
   
   - title: "Accueil"
-    url: https://richard-apn.github.io/showroom/
+    url: https://richard-apn.github.io/
 
   - title: "Le démonstrateur"
-    url: https://richard-apn.github.io/showroom/presentation_demonstrateur/
+    url: https://richard-apn.github.io/presentation_demonstrateur/
 
   - title: "La sécurité machine"
-    url: https://richard-apn.github.io/showroom/secu_machine_1/
+    url: https://richard-apn.github.io/secu_machine_1/
    
   - title: "Public scolaire"
-    url: https://richard-apn.github.io/showroom/public/
+    url: https://richard-apn.github.io/public/
 
   - title: "Logiciels utilisés"
-    url: https://richard-apn.github.io/showroom/logiciels/
+    url: https://richard-apn.github.io/logiciels/
