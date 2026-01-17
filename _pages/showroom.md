@@ -4,123 +4,127 @@ title: "Présentation générale"
 author_profile: true
 ---
 
-<img width="1063" height="532" alt="image" src="https://github.com/user-attachments/assets/19e961d6-792c-4afd-a659-3718825b4bb0" />
-
 # Le démonstrateur APN AUTOMATION
 
-Le démonstrateur APN AUTOMATION a été conçu pour respecter :
-
-- La norme **IEC 62443** : référentiel pour la cybersécurité industrielle  
-- La directive **2006/42/CE** (bientôt remplacée par le règlement UE 2023/1230) pour la sécurité machine
-
-Il est organisé en **7 parties principales** :
-
-1. Industrie 4.0  
-2. Sécurité machine  
-3. IO Link  
-4. Motion control  
-5. Cybersécurité  
-6. Réalité augmentée  
-7. Vision
-
-## Technologies et mise en œuvre
-
-Le démonstrateur intègre :
-
-- **Réalité virtuelle** pour contextualiser les automatismes (Factory I/O)  
-- **Intelligence artificielle** via des modèles de Machine Learning pour le tri de pièces  
-- **Réalité augmentée** pour la maintenance et la surveillance (logiciel SARA)
-
-Il met en œuvre les technologies suivantes :
-
-- Bus de terrain : **MODBUS TCP-IP** et **ETHERCAT**  
-- Technologies de sécurité : **Flexi Soft** et **Flexi Loop** (SICK)  
-- Protocole de communication **IO Link**  
-- Langages de programmation conformes à la norme **IEC 61131-3**  
-- Outil de programmation **Node-RED**  
-- Supervision dans le cadre du dialogue homme-machine  
-
-### Motion Control
-
-- Contrôleur d’axe pour machines brushless  
-- Deux contrôleurs d’axe pour machines pas à pas  
-- Variateur de vitesse pour machines asynchrones  
-- Pilotage via un API maître/serveur pour communication ETHERCAT et MODBUS TCP-IP
+Conçu par **Paul Brunetti** et son équipe, ce démonstrateur est un **outil de démonstration, pédagogique et de développement**.
 
 ---
 
-## Utilisation de la réalité virtuelle
+<style>
+.details-summary {
+  font-weight: bold;
+  font-size: 1.1em;
+  cursor: pointer;
+  padding: 8px;
+  border-radius: 6px;
+  margin-bottom: 4px;
+}
 
-<img width="631" height="445" alt="image" src="https://github.com/user-attachments/assets/29b86eb6-5a91-4c92-b7f4-78f1d436e4d7" />
+.details-summary:hover {
+  background-color: #f0f0f0;
+}
 
-La réalité virtuelle permet de :
+.details-content {
+  padding: 8px 16px;
+  margin-bottom: 12px;
+  background-color: #fafafa;
+  border-left: 4px solid #3498db;
+}
+</style>
 
-- Visualiser le contexte industriel  
-- Créer des scénarios simulant les commandes homme-machine  
-- Observer l’action de l’intelligence artificielle sur la reconnaissance de pièces  
-- Configurer une interface MODBUS
+<details>
+<summary class="details-summary">🟦 Domaines principaux</summary>
+<div class="details-content">
+- Industrie 4.0  
+- Sécurité machine  
+- IO Link  
+- Motion Control  
+- Cybersécurité  
+- Réalité augmentée  
+- Vision
+</div>
+</details>
 
----
+<details>
+<summary class="details-summary">🟩 Réalité Virtuelle (VR)</summary>
+<div class="details-content">
+<img width="631" height="445" alt="VR" src="https://github.com/user-attachments/assets/29b86eb6-5a91-4c92-b7f4-78f1d436e4d7" />
 
-## Intérêts techniques et pédagogiques
+- Factory I/O : contextualisation industrielle  
+- Simulation commandes homme-machine  
+- Visualisation du showroom
+</div>
+</details>
 
-### Sécurité machine
+<details>
+<summary class="details-summary">🟨 Intelligence Artificielle (IA)</summary>
+<div class="details-content">
+- Tri automatique de pièces  
+- Modèles réels et pédagogiques  
+- Analyse des scénarios industriels
+</div>
+</details>
 
-- Description des modes de marche et d’arrêt  
-- Choix des éléments de sécurité selon le règlement UE 2023/1230 : stratégie de réduction des risques en 9 étapes  
-- Programmation avec **Flexi Soft Designer** (SICK)  
-- Communication **ETHERCAT** et mise en œuvre de **Flexi Loop**
+<details>
+<summary class="details-summary">🟧 Réalité Augmentée (RA)</summary>
+<div class="details-content">
+<img width="772" height="633" alt="RA" src="https://github.com/user-attachments/assets/6600a257-0e7f-41ac-a1e1-2801510061fb" />
 
-### Industrie 4.0
+- Logiciel SARA pour visualisation sur tablette  
+- Surveillance capteurs et actionneurs  
+- Maintenance et diagnostic
+</div>
+</details>
 
-- Mise en œuvre du protocole **IO Link**  
-- Détection, passerelle, visualisation et transmission des données
+<details>
+<summary class="details-summary">🟪 Motion Control</summary>
+<div class="details-content">
+- Contrôleurs moteurs brushless et pas à pas  
+- Variateurs moteurs asynchrones  
+- Pilotage API maître/serveur  
+- Communication ETHERCAT & MODBUS TCP-IP
+</div>
+</details>
 
-### Réalité augmentée
+<details>
+<summary class="details-summary">🟦 Bus et Communication</summary>
+<div class="details-content">
+**MODBUS TCP-IP** : serveur PLC NXP2, clients Factory I/O et SARA  
+**ETHERCAT** : maître PLC NXP2, esclaves pour broche, plateau, table verticale et sécurité
+</div>
+</details>
 
-<img width="772" height="633" alt="image" src="https://github.com/user-attachments/assets/6600a257-0e7f-41ac-a1e1-2801510061fb" />
+<details>
+<summary class="details-summary">🟩 Sécurité Machine</summary>
+<div class="details-content">
+- Modes de marche/arrêt  
+- Programmation Flexi Soft Designer (SICK)  
+- Mise en œuvre de Flexi Loop  
+- Conformité UE 2023/1230
+</div>
+</details>
 
-- Logiciel **SARA** : visualisation des données sur tablette des capteurs, automates et actionneurs pour surveillance et mise en service
+<details>
+<summary class="details-summary">🟨 Cybersécurité</summary>
+<div class="details-content">
+- Norme IEC 62443  
+- Protection des automates et du réseau industriel
+</div>
+</details>
 
-### Cybersécurité
+<details>
+<summary class="details-summary">🟧 Logiciels utilisés</summary>
+<div class="details-content">
+Node-RED, Sysmac Studio, Flexi Soft Designer, Sopas Engineering Tools, Safety Designer, ACT Controller 2, Factory I/O, Wireshark
+</div>
+</details>
 
-- Mise en œuvre de la norme **IEC 62443**
-
-### Motion Control
-
-- Automates et contrôleurs OMRON, variateurs, axes moteurs pas à pas  
-- Contrôle des mouvements et coordination via **API maître/serveur**
-
-### Bus de terrain
-
-**MODBUS TCP-IP** : communication entre serveur PLC NXP2, Factory I/O (VR) et SARA (RA)  
-**ETHERCAT** : communication entre maître PLC NXP2 et esclaves pour commandes broche, variateur, table verticale et sécurité
-
-### Intelligence artificielle
-
-- Tri automatique de pièces : du modèle réel au modèle pédagogique et virtuel  
-- Simulation des scénarios industriels
-
----
-
-## Publics concernés
-
-- **Enseignements professionnels pré-bac** : Seconde professionnelle, Bac Pro MELEC, CIEL, MSPC, PLP  
+<details>
+<summary class="details-summary">🟪 Publics concernés</summary>
+<div class="details-content">
+- **Pré-bac** : Seconde, Bac Pro MELEC, CIEL, MSPC, PLP  
 - **Post-bac** : BTS ATI, Électrotechnique, CIEL, MS, CRSA, CIRA, PP  
-- **Enseignements technologiques** : Bac STI2D, spécialité Énergie et Environnement, Bac SI  
-- **Universitaires professionnalisés** : Génie électrique et informatique industrielle
-
----
-
-## Logiciels utilisés
-
-- Node-RED  
-- Sysmac Studio (OMRON)  
-- Flexi Soft Designer (SICK)  
-- Sopas Engineering Tools (SICK)  
-- Safety Designer (SICK)  
-- ACT Controller 2 (SMC)  
-- Factory I/O version Modbus  
-- Wireshark
-
----
+- **Technologiques** : Bac STI2D, SI  
+- **Universitaires** : Génie électrique et informatique industrielle
+</div>
+</details>
