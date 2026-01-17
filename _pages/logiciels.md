@@ -1,6 +1,6 @@
 ---
-permalink: /logiciels/
-title: "Logiciels utilisés"
+permalink: /industie4.0/
+title: "Industrie 4.0"
 author_profile: true
 ---
 -----
