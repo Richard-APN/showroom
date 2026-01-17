@@ -68,6 +68,38 @@ Conçu par **Paul Brunetti** et son équipe, le démonstrateur est un **outil p�
 </div>
 </details>
 
+
 <details>
-<summary class="details-summary">🟩 Réalité Virtuelle (VR)</summary>
-<div class="details-conte
+<summary class="details-summary">🟩 Sécurité Machine</summary>
+<div class="details-content secu">
+- Modes de marche/arrêt  
+- Programmation Flexi Soft Designer (SICK)  
+- Mise en œuvre de Flexi Loop  
+- Conformité UE 2023/1230
+</div>
+</details>
+
+<details>
+<summary class="details-summary">🟨 Cybersécurité</summary>
+<div class="details-content cyber">
+- Norme IEC 62443  
+- Protection automates et réseau industriel
+</div>
+</details>
+
+<details>
+<summary class="details-summary">🟧 Logiciels utilisés</summary>
+<div class="details-content logiciels">
+Node-RED, Sysmac Studio, Flexi Soft Designer, Sopas Engineering Tools, Safety Designer, ACT Controller 2, Factory I/O, Wireshark
+</div>
+</details>
+
+<details>
+<summary class="details-summary">🟪 Publics concernés</summary>
+<div class="details-content publics">
+- **Pré-bac** : Seconde, Bac Pro MELEC, CIEL, MSPC, PLP  
+- **Post-bac** : BTS ATI, Électrotechnique, CIEL, MS, CRSA, CIRA, PP  
+- **Technologiques** : Bac STI2D, SI  
+- **Universitaires** : Génie électrique et informatique industrielle
+</div>
+</details>
