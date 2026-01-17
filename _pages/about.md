@@ -24,7 +24,7 @@ Vous y trouverez :
 
 * des scénarios et exemples de solutions industrielles,
 * des supports pédagogiques,
-* des projets et ressources pour la formation technologique et professionnelle.
+* des ressources pour la formation technologique et professionnelle.
 
 ---
 
