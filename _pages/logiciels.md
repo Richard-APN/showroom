@@ -5,12 +5,4 @@ author_profile: true
 ---
 -----
 
-
-+ Outil de programmation NOD RED
-+ Sysmac Studio (OMRON)
-+ Flexi Soft Designer (SICK)
-+ Sopas Engineering Tools (SICK)
-+ Safety Designer (SICK)
-+ ACT Controller 2 (SMC)
-+ FACTORY I/O version Modbus
-+ Wireshark.
+<img width="1592" height="778" alt="image" src="https://github.com/user-attachments/assets/e7579efc-fae9-483c-b0a1-7636d27a18dd" />
