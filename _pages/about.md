@@ -7,15 +7,12 @@ author_profile: true
 <img width="1063" height="532" alt="image" src="https://github.com/user-attachments/assets/19e961d6-792c-4afd-a659-3718825b4bb0" />
 
 
-## Le démonstrateur
-
 Le démonstrateur a été conçu par **Paul Brunetti** et réalisé par une équipe d’ingénieurs en automatismes et en informatique industrielle.
 Il s’appuie sur des **scénarios issus de situations industrielles réelles**, rencontrées sur le terrain.
 
 Outil de démonstration, il sert également au **développement d’applications**, au **réglage de process** et comme **support pédagogique** pour les enseignements technologiques et professionnels.
 
 Il met en œuvre des applications représentatives de l’**industrie 4.0** : pilotage de systèmes automatisés, sécurité machine, supervision et cybersécurité industrielle.
-
 
 
 ## À propos de ce site
@@ -34,3 +31,4 @@ Vous y trouverez :
 Bonne visite.
 
 <img width="531" height="156" alt="image" src="https://github.com/user-attachments/assets/ad432f36-521a-4830-8f87-ba8f483adb20" />
+
