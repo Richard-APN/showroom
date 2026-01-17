@@ -6,11 +6,13 @@ main:
   - title: "Le démonstrateur"
     url: https://richard-apn.github.io/presentation_demonstrateur/
 
+  - title: "Industrie 4.0"
+    url: https://richard-apn.github.io/industie4.0/
+
   - title: "La sécurité machine"
     url: https://richard-apn.github.io/secu_machine_1/
    
   - title: "Public scolaire"
     url: https://richard-apn.github.io/public/
 
-  - title: "Logiciels utilisés"
-    url: https://richard-apn.github.io/logiciels/
+
