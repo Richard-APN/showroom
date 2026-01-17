@@ -26,7 +26,7 @@ Il a été pensé en 7 parties principales :
 Implémenté 
 
 + De la réalité virtuelle  associée au domaine industriel pour mettre en contexte les exemples d’automatismes proposés
-+ D’intelligence Artificielle à partir de modèles  de Machine Learning utilisés dans le cas de tris de pièces.
++ D’Intelligence Artificielle à partir de modèles  de Machine Learning utilisés dans le cas de tris de pièces.
 
 Il met en œuvre
 
@@ -45,7 +45,8 @@ Il comporte pour sa partie opérative (Motion Control)
 + Pilotés par un API, « maitre » pour la communication ETHERCAT et « serveur » pour la communication MODBUD TCP-IP.
 
 Utilisation de la réalité virtuelle
-Le logiciel Factory I/O complète l’installation. 
+
++ Le logiciel Factory I/O complète l’installation. 
 
 <img width="631" height="445" alt="image" src="https://github.com/user-attachments/assets/29b86eb6-5a91-4c92-b7f4-78f1d436e4d7" />
 
@@ -53,7 +54,7 @@ Le logiciel Factory I/O complète l’installation.
 Il permet de visualiser le contexte industriel dans lequel les composants du showroom sont utilisés.
 On pourra créer des scénarios pour simuler les commandes homme machine ; visualiser l’action de la reconnaissance de pièces par l’Intelligence Artificielle ; configurer une interface MODBUS.
 
-Intérêts pédagogiques 
+Intérêts tecniques pédagogiques 
 
 •	Sécurité Machine :
 
