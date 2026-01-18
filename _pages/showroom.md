@@ -59,13 +59,15 @@ Conçu par **Paul Brunetti** et son équipe, ce démonstrateur est un **outil p�
 <details>
 <summary class="details-summary">🟦 Domaines principaux</summary>
 <div class="details-content domaines">
-- Industrie 4.0  
-- Sécurité machine  
-- IO Link  
-- Motion Control  
-- Cybersécurité  
-- Réalité augmentée  
-- Vision
+<ul>
+  <li>Industrie 4.0</li>
+  <li>Sécurité machine</li>
+  <li>IO Link</li>
+  <li>Motion Control</li>
+  <li>Cybersécurité</li>
+  <li>Réalité augmentée</li>
+  <li>Vision</li>
+</ul>
 </div>
 </details>
 
@@ -73,18 +75,22 @@ Conçu par **Paul Brunetti** et son équipe, ce démonstrateur est un **outil p�
 <summary class="details-summary">🟩 Réalité Virtuelle (VR)</summary>
 <div class="details-content vr">
 <img src="https://github.com/user-attachments/assets/29b86eb6-5a91-4c92-b7f4-78f1d436e4d7" alt="VR" />
-- Factory I/O pour contextualisation industrielle  
-- Simulation commandes homme-machine  
-- Visualisation du showroom
+<ul>
+  <li>Factory I/O pour contextualisation industrielle</li>
+  <li>Simulation commandes homme-machine</li>
+  <li>Visualisation du showroom</li>
+</ul>
 </div>
 </details>
 
 <details>
 <summary class="details-summary">🟨 Intelligence Artificielle (IA)</summary>
 <div class="details-content ia">
-- Tri automatique de pièces  
-- Modèles réels et pédagogiques  
-- Analyse des scénarios industriels
+<ul>
+  <li>Tri automatique de pièces</li>
+  <li>Modèles réels et pédagogiques</li>
+  <li>Analyse des scénarios industriels</li>
+</ul>
 </div>
 </details>
 
@@ -92,52 +98,71 @@ Conçu par **Paul Brunetti** et son équipe, ce démonstrateur est un **outil p�
 <summary class="details-summary">🟧 Réalité Augmentée (RA)</summary>
 <div class="details-content ra">
 <img src="https://github.com/user-attachments/assets/6600a257-0e7f-41ac-a1e1-2801510061fb" alt="RA" />
-- Logiciel SARA pour visualisation sur tablette  
-- Surveillance capteurs et actionneurs  
-- Maintenance et diagnostic
+<ul>
+  <li>Logiciel SARA pour visualisation sur tablette</li>
+  <li>Surveillance capteurs et actionneurs</li>
+  <li>Maintenance et diagnostic</li>
+</ul>
 </div>
 </details>
 
 <details>
 <summary class="details-summary">🟪 Motion Control</summary>
 <div class="details-content motion">
-- Contrôleurs moteurs brushless et pas à pas  
-- Variateurs moteurs asynchrones  
-- Pilotage API maître/serveur  
-- Communication ETHERCAT & MODBUS TCP-IP
+<ul>
+  <li>Contrôleurs moteurs brushless et pas à pas</li>
+  <li>Variateurs moteurs asynchrones</li>
+  <li>Pilotage API maître/serveur</li>
+  <li>Communication ETHERCAT et MODBUS TCP-IP</li>
+</ul>
 </div>
 </details>
 
 <details>
 <summary class="details-summary">🟦 Bus et Communication</summary>
 <div class="details-content bus">
-**MODBUS TCP-IP** : serveur PLC NXP2, clients Factory I/O et SARA  
-**ETHERCAT** : maître PLC NXP2, esclaves pour broche, plateau, table verticale et sécurité
+<ul>
+  <li><strong>MODBUS TCP-IP</strong> : serveur PLC NXP2, clients Factory I/O et SARA</li>
+  <li><strong>ETHERCAT</strong> : maître PLC NXP2, esclaves pour broche, plateau, table verticale et sécurité</li>
+</ul>
 </div>
 </details>
 
 <details>
 <summary class="details-summary">🟩 Sécurité Machine</summary>
 <div class="details-content secu">
-- Modes de marche/arrêt  
-- Programmation Flexi Soft Designer (SICK)  
-- Mise en œuvre de Flexi Loop  
-- Conformité UE 2023/1230
+<ul>
+  <li>Modes de marche et d’arrêt</li>
+  <li>Programmation Flexi Soft Designer (SICK)</li>
+  <li>Mise en œuvre de Flexi Loop</li>
+  <li>Conformité UE 2023/1230</li>
+</ul>
 </div>
 </details>
 
 <details>
 <summary class="details-summary">🟨 Cybersécurité</summary>
 <div class="details-content cyber">
-- Norme IEC 62443  
-- Protection automates et réseau industriel
+<ul>
+  <li>Norme IEC 62443</li>
+  <li>Protection des automates et du réseau industriel</li>
+</ul>
 </div>
 </details>
 
 <details>
 <summary class="details-summary">🟧 Logiciels utilisés</summary>
 <div class="details-content logiciels">
-Node-RED, Sysmac Studio, Flexi Soft Designer, Sopas Engineering Tools, Safety Designer, ACT Controller 2, Factory I/O, Wireshark
+<ul>
+  <li>Node-RED</li>
+  <li>Sysmac Studio</li>
+  <li>Flexi Soft Designer</li>
+  <li>Sopas Engineering Tools</li>
+  <li>Safety Designer</li>
+  <li>ACT Controller 2</li>
+  <li>Factory I/O</li>
+  <li>Wireshark</li>
+</ul>
 </div>
 </details>
 
