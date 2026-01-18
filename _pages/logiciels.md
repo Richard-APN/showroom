@@ -67,7 +67,7 @@ author_profile: true
 </style>
 
 <details>
-<summary class="details-summary">🟩 Sécurité machine — Aspect pédagogique</summary>
+<summary class="details-summary">🟩 Industrie 4.0 — Aspect pédagogique</summary>
 <div class="details-content">
 
 <ul>
