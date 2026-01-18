@@ -4,7 +4,6 @@ title: "Showroom APN AUTOMATION 2026"
 author_profile: true
 ---
 
-<img width="1063" height="532" alt="image" src="https://github.com/user-attachments/assets/19e961d6-792c-4afd-a659-3718825b4bb0" />
 <img width="1576" height="800" alt="image" src="https://github.com/user-attachments/assets/7714489c-0ff2-4d95-8d17-07dd4ed7a1e3" />
 
 ---
