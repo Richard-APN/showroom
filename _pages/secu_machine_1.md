@@ -8,7 +8,7 @@ author_profile: true
 
 ---
 
-<style>
+/* Style général des accordions */
 .details-summary {
   font-weight: bold;
   font-size: 1.1em;
@@ -19,9 +19,7 @@ author_profile: true
   display: flex;
   align-items: center;
   gap: 10px;
-  background-color: #f5f5f5;
-  color: #000;
-  transition: background-color 0.2s ease, color 0.2s ease;
+
 }
 
 .details-summary:hover {
