@@ -11,12 +11,6 @@ author_profile: true
 
 + Mise en œuvre du protocole de communication IO LINK
 + Choix des participants : détection, passerelle, visualisation, collecte et transmission des données.
-    
-+ Connexion des éléments
-+ Utilisation du logiciel Flexi Soft Designer (Sick) pour la programmation des séquences de sécurité
-+ Communication ETHERCAT
-+ Mise en œuvre de la technologie Flexi Loop (Sick)
-
 
 <style>
 .details-summary {
