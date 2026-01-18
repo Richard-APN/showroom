@@ -145,29 +145,39 @@ Node-RED, Sysmac Studio, Flexi Soft Designer, Sopas Engineering Tools, Safety De
 <summary class="details-summary">🟪 Publics concernés</summary>
 <div class="details-content publics">
 
+<strong>Enseignements professionnels pré-baccalauréat :</strong>
+<ul>
+  <li>Seconde professionnelle des métiers</li>
+  <li>Bac pro MELEC</li>
+  <li>Bac pro CIEL</li>
+  <li>Bac pro MSPC</li>
+  <li>Bac pro PLP</li>
+</ul>
 
-Enseignements professionnels pré-baccalauréat :
-+ Seconde professionnelle des métiers
- - + Bac pro MELEC (Métiers de l’Electricité et de ses Environnements Connectés)
- - + Bac pro CIEL (Cybersécurité, Informatique et réseaux, Electronique)
- - + Bac pro MSPC (Maintenance des Systèmes de Production Connectés)
- - + Bac pro PLP (Pilote de Ligne de Production).
+<strong>Enseignements professionnels post-baccalauréat :</strong>
+<ul>
+  <li>BTS ATI</li>
+  <li>BTS Électrotechnique</li>
+  <li>BTS CIEL</li>
+  <li>BTS MS option A</li>
+  <li>BTS CRSA</li>
+  <li>BTS CIRA</li>
+  <li>BTS PP</li>
+</ul>
 
-Enseignements professionnels post-baccalauréat :
-+ BTS ATI (Assistant technique d’ingénieur)
-+ BTS Électrotechnique
-+ BTS CIEL (Cybersécurité, Informatique et réseaux, Électronique)
-+ BTS MS (Maintenance des Systèmes – option A)
-+ BTS CRSA (Conception et Réalisation de Systèmes Automatiques)
-+ BTS CIRA (Contrôle Industriel et Régulation Automatique)
-+ BTS PP (Pilotage de procédés).
-  
-Enseignements technologiques :
-+ Bac STI2D, spécialité Énergie et Environnement
-+ Bac spécialité SI.
-  
-Enseignements universitaires professionnalisés :
-+ Génie Électrique et Informatique Industrielle.
+<strong>Enseignements technologiques :</strong>
+<ul>
+  <li>Bac STI2D spécialité Énergie et Environnement</li>
+  <li>Bac spécialité SI</li>
+</ul>
+
+<strong>Enseignements universitaires professionnalisés :</strong>
+<ul>
+  <li>Génie Électrique et Informatique Industrielle</li>
+</ul>
+
+</div>
+</details>
 
   
   
