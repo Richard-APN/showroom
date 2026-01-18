@@ -145,6 +145,7 @@ Node-RED, Sysmac Studio, Flexi Soft Designer, Sopas Engineering Tools, Safety De
 <summary class="details-summary">🟪 Publics concernés</summary>
 <div class="details-content publics">
 
+
 Enseignements professionnels pré-baccalauréat :
 + Seconde professionnelle des métiers
 + Bac pro MELEC (Métiers de l’Electricité et de ses Environnements Connectés)
@@ -185,11 +186,4 @@ Enseignements universitaires professionnalisés :
   
   
   
-  - **Pré-bac** : 
-  Seconde, 
-  Bac Pro MELEC  CIEL, MSPC, PLP  
-- **Post-bac** : BTS ATI, Électrotechnique, CIEL, MS, CRSA, CIRA, PP  
-- **Technologiques** : Bac STI2D, SI  
-- **Universitaires** : Génie électrique et informatique industrielle
-</div>
-</details>
+ 
