@@ -8,6 +8,16 @@ author_profile: true
 
 ---
 
+# Technique et pédgogie
+
++ Description des modes de marche et d’arrêt
++ Choix des éléments de sécurité selon le règlement (UE) 2023/1230 du parlement européen pour la Sécurité Machine :  Stratégie de réduction des risques en 9 étapes     
++ Connexion des éléments
++ Utilisation du logiciel Flexi Soft Designer (Sick) pour la programmation des séquences de sécurité
++ Communication ETHERCAT
++ Mise en œuvre de la technologie Flexi Loop (Sick).
+
+
 <style>
 .details-summary {
   font-weight: bold;
@@ -63,14 +73,14 @@ author_profile: true
 <ul>
   <li>
     <strong>Partie 1 — Modes de marche et d’arrêt</strong><br>
-    <a href="https://richard-apn.github.io/showroom/files/ARTICLE%20LINKDIN%20SECU%202%20VER%201.pdf" target="_blank">
+    <a href="https://richard-apn.github.io/files/ARTICLE%20LINKDIN%20SECU%202%20VER%201.pdf" target="_blank">
       Télécharger le document PDF
     </a>
   </li>
 
   <li>
     <strong>Partie 2 — Choix des éléments de sécurité</strong><br>
-    <a href="https://richard-apn.github.io/showroom/files/ARTICLE%20LINKDIN%20SECU%201%20VER%201.pdf" target="_blank">
+    <a href="https://richard-apn.github.io/files/ARTICLE%20LINKDIN%20SECU%201%20VER%201.pdf" target="_blank">
       Télécharger le document PDF
     </a>
   </li>
@@ -78,7 +88,7 @@ author_profile: true
   <li>
     <strong>Partie 3 — Justification du circuit de commande de sécurité</strong><br>
     Servo drive OMRON<br>
-    <a href="https://richard-apn.github.io/showroom/files/ZOOM_SECU_1.pdf" target="_blank">
+    <a href="https://richard-apn.github.io/files/ZOOM_SECU_1.pdf" target="_blank">
       Télécharger le document PDF
     </a>
   </li>
@@ -94,14 +104,14 @@ author_profile: true
 <ul>
   <li>
     <strong>Présentation PowerPoint — Sécurité machine</strong><br>
-    <a href="http://richard-apn.github.io/showroom/files/SHOW-ROOM-SECU-machine-RIRI.ppsx" target="_blank">
+    <a href="http://richard-apn.github.io/files/SHOW-ROOM-SECU-machine-RIRI.ppsx" target="_blank">
       Télécharger le fichier
     </a>
   </li>
 
   <li>
     <strong>Présentation PowerPoint — Machine d’états</strong><br>
-    <a href="http://richard-apn.github.io/showroom/files/SHOW-ROOM-UTILISATION-RIRI.ppsm" target="_blank">
+    <a href="http://richard-apn.github.io/files/SHOW-ROOM-UTILISATION-RIRI.ppsm" target="_blank">
       Télécharger le fichier
     </a>
   </li>
