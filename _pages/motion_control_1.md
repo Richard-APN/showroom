@@ -1,5 +1,5 @@
 ---
-permalink: /motion_control/
+permalink: /motion_control_1/
 title: "toto"
 author_profile: true
 ---
