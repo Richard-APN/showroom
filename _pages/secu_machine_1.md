@@ -15,7 +15,7 @@ author_profile: true
 + Connexion des éléments
 + Utilisation du logiciel Flexi Soft Designer (Sick) pour la programmation des séquences de sécurité
 + Communication ETHERCAT
-+ Mise en œuvre de la technologie Flexi Loop (Sick).
++ Mise en œuvre de la technologie Flexi Loop (Sick)
 
 
 <style>
@@ -86,8 +86,7 @@ author_profile: true
   </li>
 
   <li>
-    <strong>Partie 3 — Justification du circuit de commande de sécurité</strong><br>
-    Servo drive OMRON<br>
+    <strong>Partie 3 — Justification du circuit de commande de sécurité Servo drive OMRON</strong><br>
     <a href="https://richard-apn.github.io/files/ZOOM_SECU_1.pdf" target="_blank">
       Télécharger le document PDF
     </a>
