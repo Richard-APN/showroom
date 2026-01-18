@@ -17,7 +17,6 @@ author_profile: true
     * Contrôleur d’axe moteur pas à pas ETHERCAT SMC
     * Contrôleur d’axe moteur pas à pas filaire SMC.
 
-
 <style>
 .details-summary {
   font-weight: bold;
