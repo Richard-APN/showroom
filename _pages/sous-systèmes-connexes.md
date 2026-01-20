@@ -16,7 +16,7 @@ triage automatique de pièces. Réalisés sur la même base et de façon évolut
 ----
 # Technique et pédagogie
 
-Triage automatique de pièces par IA. modèle pédagogique version PO virtuelle et commande virtuelle
+Triage automatique de pièces par IA. Modèle pédagogique version PO virtuelle et commande virtuelle
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u5tG-uqTZqo?si=jqEtySQtIqMneO5J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -108,7 +108,7 @@ Triage automatique de pièces par IA. Modèle pédagogoique virtuel
 
 <ul>
   <li>
-    <strong>Présentation PowerPoint — Versions proposées</strong><br>
+    <strong>Présentation PowerPoint — Triage automatique de pièces. Différentes versions proposées</strong><br>
     <a href="http://richard-apn.github.io/files/SOUS_SYSTEME_ IA .pdf" target="_blank">
       Télécharger le fichier
     </a>
