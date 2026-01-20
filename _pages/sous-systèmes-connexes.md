@@ -4,7 +4,7 @@ title: "Sous systèmes connexes"
 author_profile: true
 ---
 
-
+---
 # 🟩 [Sous systeme : Triage automatique de pièces](https://richard-apn.github.io/sous_systemes_ia/)
 
 
