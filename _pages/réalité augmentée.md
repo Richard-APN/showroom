@@ -6,6 +6,8 @@ author_profile: true
 -----
 <img width="1602" height="790" alt="image" src="https://github.com/user-attachments/assets/35d00919-ef2b-435d-a027-ba6788b5c025" />
 
+----
+
 # Technique et pédagogie
 
 + Mise en œuvre du logiciel SARA pour un usage standard : visualisation des données sur tablette des capteurs, automates, actionneurs pour la surveillance, le diagnostic, la mise en service de l’environnement.
