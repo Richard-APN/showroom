@@ -106,7 +106,15 @@ author_profile: true
       Télécharger le document PDF
     </a>
   </li>
-  
+
+<li>
+    <strong>Partie 6 — Circulation de l'information</strong><br>
+    <a href="https://richard-apn.github.io/files/SECU%20MACHINE%20CIRCULATION%20DE%20L_NFO%20V1%2019_01_2026.pdf" target="_blank">
+      Télécharger le document PDF
+    </a>
+  </li>
+
+
 </ul>
 
 </div>
