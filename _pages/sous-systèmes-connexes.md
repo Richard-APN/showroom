@@ -7,7 +7,7 @@ author_profile: true
 # 🟩 Sous systeme : Triage automatique de pièces
 
 
-APN AUTOMATION propose plusieurs systèmes pédagogiques élémentaires "enfants" du démonstrateur. Parmi ceux-ci nous avons déveloopé un ensemble modulaire qui permet l'étude de Utilisation de l’IA dans le
+APN AUTOMATION propose plusieurs systèmes pédagogiques élémentaires "enfants" du démonstrateur. Parmi ceux-ci nous avons développé un ensemble modulaire qui permet l'étude de l'utilisation de l’IA pour le
 triage automatique de pièces. Réalisés sur la même base et de façon évolutive , vous pouvez vous procurer :
 
 + Le modèle pédagogique version PO virtuelle et commande virtuelle
