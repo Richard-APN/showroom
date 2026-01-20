@@ -85,7 +85,7 @@ author_profile: true
     </a>
   </li>
 
-<li>
+  <li>
     <strong>Partie 3 — Système de Commande de la Fonction de Sécurité </strong><br>
     <a href="https://richard-apn.github.io/files/SECU%20MACHINE%20SCFS%20V1%2019_01_2026.pdf" target="_blank">
       Télécharger le document PDF
@@ -98,8 +98,7 @@ author_profile: true
       Télécharger le document PDF
     </a>
   </li>
-</ul>
-  
+
     
   <li>
     <strong>Partie 5 — Justification du circuit de commande de sécurité Servo drive OMRON</strong><br>
@@ -107,6 +106,7 @@ author_profile: true
       Télécharger le document PDF
     </a>
   </li>
+  
 </ul>
 
 </div>
