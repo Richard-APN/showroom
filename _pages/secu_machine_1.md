@@ -80,7 +80,7 @@ author_profile: true
 
   <li>
     <strong>Partie 2 — Modes de marche et d’arrêt</strong><br>
-    <a href="https://richard-apn.github.io/files/ARTICLE%20LINKDIN%20SECU%201%20VER%201.pdf" target="_blank">
+    <a href="https://richard-apn.github.io/files/SECU MACHINE MODES DE MARCHE ET D_ARRET V1 19_01_2026.pdf" target="_blank">
       Télécharger le document PDF
     </a>
   </li>
