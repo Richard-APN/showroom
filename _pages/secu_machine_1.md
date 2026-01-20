@@ -98,7 +98,7 @@ author_profile: true
 
 
   <li>
-    <strong>Partie 3 — Justification du circuit de commande de sécurité Servo drive OMRON</strong><br>
+    <strong>Partie 4 — Justification du circuit de commande de sécurité Servo drive OMRON</strong><br>
     <a href="https://richard-apn.github.io/files/ZOOM_SECU_1.pdf" target="_blank">
       Télécharger le document PDF
     </a>
