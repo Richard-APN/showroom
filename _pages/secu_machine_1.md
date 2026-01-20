@@ -92,11 +92,18 @@ author_profile: true
     </a>
   </li>
 
-
-
-
-
-
+ <li>
+    <strong>Partie 4 — Justification du circuit de commande de sécurité du verrou TR10 SICK</strong><br>
+    <a href="https://richard-apn.github.io/files/SECU%20MACHINE%20JUSTIFICATION%20VERROU%20V1%2019_01_2026.pdf" target="_blank">
+      Télécharger le document PDF
+    </a>
+  </li>
+</ul>
+  
+  
+  
+  
+  
   <li>
     <strong>Partie 4 — Justification du circuit de commande de sécurité Servo drive OMRON</strong><br>
     <a href="https://richard-apn.github.io/files/ZOOM_SECU_1.pdf" target="_blank">
