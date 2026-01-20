@@ -72,14 +72,14 @@ author_profile: true
 
 <ul>
   <li>
-    <strong>Partie 1 — Modes de marche et d’arrêt</strong><br>
-    <a href="https://richard-apn.github.io/files/ARTICLE%20LINKDIN%20SECU%202%20VER%201.pdf" target="_blank">
+    <strong>Partie 1 — Exigences de sécurité</strong><br>
+    <a href="https://richard-apn.github.io/files/[SECU%20MACHINE%20EXIGENCES%20DE%20SECURITE%20V1%2019_01_2026.pdf]" target="_blank">
       Télécharger le document PDF
     </a>
   </li>
 
   <li>
-    <strong>Partie 2 — Choix des éléments de sécurité</strong><br>
+    <strong>Partie 2 — Modes de marche et d’arrêt</strong><br>
     <a href="https://richard-apn.github.io/files/ARTICLE%20LINKDIN%20SECU%201%20VER%201.pdf" target="_blank">
       Télécharger le document PDF
     </a>
