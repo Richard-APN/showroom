@@ -8,13 +8,8 @@ author_profile: true
 # 🟩 [Sous systeme : Triage automatique de pièces](https://richard-apn.github.io/sous_systemes_ia/)
 
 
-APN AUTOMATION propose plusieurs systèmes pédagogiques simples, issus du démonstrateur.
-Parmi eux, nous avons développé un système modulaire permettant d'étudier l’utilisation de l’intelligence artificielle pour le tri automatique de pièces.
+APN AUTOMATION propose un système pédagogique modulaire dédié au tri automatique de pièces par intelligence artificielle.
+Conçu sur une base évolutive, il est disponible en version virtuelle, réelle ou complète.
 
-Ces systèmes pédagogiques, conçus sur une base commune et évolutive, sont disponibles en plusieurs versions:
-
-+ un modèle avec partie opérartive virtuelle et commande virtuelle
-+ un modèle pédagogique avec opérartive virtuelle réelle et commande réelle
-+ un modèle pédagogique complet.
   
 ----
