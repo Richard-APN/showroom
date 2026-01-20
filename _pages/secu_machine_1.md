@@ -121,7 +121,7 @@ author_profile: true
 </details>
 
 <details>
-<summary class="details-summary">🟦 Sécurité machine - Téléchargements</summary>
+<summary class="details-summary">🟦 Sécurité machine — Téléchargements</summary>
 <div class="details-content" style="background-color:#1565C0;border-color:#1565C0;">
  
 <ul>
