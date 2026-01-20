@@ -10,7 +10,7 @@ author_profile: true
 ----
 # Technique et pédagogie
 
-Triage automatique de pièces par IA. Modèle pédagogoique virtuel
+Triage automatique de pièces par IA. Système pédagogique
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u5tG-uqTZqo?si=jqEtySQtIqMneO5J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -63,7 +63,7 @@ Triage automatique de pièces par IA. Modèle pédagogoique virtuel
 </style>
 
 <details>
-<summary class="details-summary">🟩 Sous systèmes connexes — Ressources pédagogiques</summary>
+<summary class="details-summary">🟩 Triage automatique de pièces — Ressources pédagogiques</summary>
 <div class="details-content">
 
 <ul>
@@ -97,12 +97,12 @@ Triage automatique de pièces par IA. Modèle pédagogoique virtuel
 </details>
 
 <details>
-<summary class="details-summary">🟦 Sous systèmes connexes — Téléchargements</summary>
+<summary class="details-summary">🟦 Triage automatique de pièces — Téléchargements</summary>
 <div class="details-content" style="background-color:#1565C0;border-color:#1565C0;">
 
 <ul>
   <li>
-    <strong>Présentation PowerPoint — Sécurité machine</strong><br>
+    <strong>Présentation PowerPoint — Versions proposées</strong><br>
     <a href="http://richard-apn.github.io/files/SHOW-ROOM-SECU-machine-RIRI.ppsx" target="_blank">
       Télécharger le fichier
     </a>
