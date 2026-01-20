@@ -73,7 +73,7 @@ author_profile: true
 <ul>
   <li>
     <strong>Partie 1 — Exigences de sécurité</strong><br>
-    <a href="https://richard-apn.github.io/files/[SECU%20MACHINE%20EXIGENCES%20DE%20SECURITE%20V1%2019_01_2026.pdf]" target="_blank">
+    <a href="https://richard-apn.github.io/files/SECU%20MACHINE%20EXIGENCES%20DE%20SECURITE%20V1%2019_01_2026.pdf]" target="_blank">
       Télécharger le document PDF
     </a>
   </li>
