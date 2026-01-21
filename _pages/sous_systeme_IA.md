@@ -66,7 +66,7 @@ author_profile: true
 
 <ul>
   <li>
-    <strong>Modèle pédagogique virtuel</strong><br>
+    <strong>Triage automatique de pièces. Modèle pédagogique virtuel</strong><br>
     <a href="https://richard-apn.github.io/files/IA_RV_%20V1_21_01_2026.pdf" target="_blank">
       Télécharger le document PDF
     </a>
