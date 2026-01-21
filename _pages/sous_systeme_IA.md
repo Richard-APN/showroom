@@ -73,8 +73,8 @@ author_profile: true
   </li>
 
  </ul>
-
-
+ 
+</div>
 </details>
 
 <details>
