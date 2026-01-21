@@ -83,7 +83,7 @@ author_profile: true
 
 <ul>
   <li>
-    <strong>Présentation PowerPoint — Triage automatique de pièces. Différentes versions proposées</strong><br>
+    <strong>Triage automatique de pièces. Différentes versions proposées</strong><br>
     <a href="http://richard-apn.github.io/files/SOUS_SYSTEME_ IA .pdf" target="_blank">
       Télécharger le fichier
     </a>
