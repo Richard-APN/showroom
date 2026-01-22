@@ -101,14 +101,14 @@ author_profile: true
 <ul>
   <li>
     <strong>FICHE CABLAGE API REP 10</strong><br>
-    <a href="http:richard-apn.github.io/files/FICHE%20API%20%20REP%2010.pdf" target="_blank">
+    <a href="https:richard-apn.github.io/files/FICHE%20API%20%20REP%2010.pdf" target="_blank">
       Télécharger le fichier
     </a>
   </li>
 
   <li>
-    <strong>Présentation PowerPoint — Machine d’états</strong><br>
-    <a href="http://richard-apn.github.io/files/SHOW-ROOM-UTILISATION-RIRI.ppsm" target="_blank">
+    <strong>FICHE CABLAGE CONTROLEUR AXE LINEAIRE REP 13</strong><br>
+    <a href="https://richard-apn.github.io/files/FICHE_CONTROLEUR_AXE_LINEAIRE_REP_13%20.pdf" target="_blank">
       Télécharger le fichier
     </a>
   </li>
