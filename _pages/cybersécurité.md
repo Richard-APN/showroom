@@ -90,10 +90,11 @@ A implémenter
   </li>
 </ul>
 
+-->
+
 </div>
 </details>
 
--->
 
 <details>
 <summary class="details-summary">🟦 Cybersécurité — Téléchargements</summary>
@@ -117,6 +118,7 @@ A implémenter
   </li>
 </ul>
 -->
+
 </div>
 </details>
 
