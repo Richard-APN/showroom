@@ -101,8 +101,8 @@ Triage automatique de pièces par IA. Modèle pédagogoique virtuel
 
 <ul>
   <li>
-    <strong>Présentation PowerPoint — Sécurité machine</strong><br>
-    <a href="http://richard-apn.github.io/files/SHOW-ROOM-SECU-machine-RIRI.ppsx" target="_blank">
+    <strong>FICHE CABLAGE CAPTEUR VISION 2D REP 29</strong><br>
+    <a href="https://richard-apn.github.io/files/FICHE_CAPTEUR_%20VISION_%202D_REP_29.pdf" target="_blank">
       Télécharger le fichier
     </a>
   </li>
