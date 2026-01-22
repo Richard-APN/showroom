@@ -109,12 +109,14 @@ Triage automatique de pièces par IA. Modèle pédagogoique virtuel
     </a>
   </li>
 
+<!--
   <li>
     <strong>Présentation PowerPoint — Machine d’états</strong><br>
     <a href="http://richard-apn.github.io/files/SHOW-ROOM-UTILISATION-RIRI.ppsm" target="_blank">
       Télécharger le fichier
     </a>
   </li>
+ --> 
 </ul>
 
 </div>
