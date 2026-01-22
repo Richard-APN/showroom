@@ -65,6 +65,8 @@ author_profile: true
 <summary class="details-summary">🟩 Vision — Ressources pédagogiques</summary>
 <div class="details-content">
 
+A implémenter
+<!--
 <ul>
   <li>
     <strong>Partie 1 — Modes de marche et d’arrêt</strong><br>
@@ -92,7 +94,7 @@ Triage automatique de pièces par IA. Modèle pédagogoique virtuel
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u5tG-uqTZqo?si=jqEtySQtIqMneO5J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
-
+-->
 </details>
 
 <details>
