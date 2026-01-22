@@ -141,14 +141,14 @@ author_profile: true
 
  <li>
     <strong>FICHE CABLAGE FLEXISOFT REP 1</strong><br>
-    <a href="http://richard-apn.github.io/files/" target="_blank">
+    <a href="https://richard-apn.github.io/files/FICHE_FLEXISOFT_CONNEXIONS_FILAIRES_REP_1.pdf" target="_blank">
       Télécharger le fichier
     </a>
   </li>
 
    <li>
     <strong>FICHE ETHERCAT FLEXISOFT REP 1</strong><br>
-    <a href="http://richard-apn.github.io/files/SHOW-ROOM-UTILISATION-RIRI.ppsm" target="_blank">
+    <a href="http://richard-apn.github.io/files/FICHE_FLEXISOFT_COMMUNICATION_ETHERCAT_REP_1.pdf" target="_blank">
       Télécharger le fichier
     </a>
   </li>
