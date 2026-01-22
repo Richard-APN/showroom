@@ -112,6 +112,22 @@ author_profile: true
       Télécharger le fichier
     </a>
   </li>
+
+ <li>
+    <strong>FICHE CABLAGE CONTROLEUR AXE ROTATIF REP 14</strong><br>
+    <a href="https://richard-apn.github.io/files/FICHE_CONTROLEUR_AXE_ROTATIF_REP_14.pdf" target="_blank">
+      Télécharger le fichier
+    </a>
+  </li>
+
+ <li>
+    <strong>FICHE CABLAGE CONTROLEUR AXE ROTATIF REP 14</strong><br>
+    <a href="https://richard-apn.github.io/files/FICHE_CONTROLEUR_AXE_ROTATIF_REP_14.pdf" target="_blank">
+      Télécharger le fichier
+    </a>
+  </li>
+
+  
 </ul>
 
 </div>
