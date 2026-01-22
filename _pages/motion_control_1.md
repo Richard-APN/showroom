@@ -100,8 +100,8 @@ author_profile: true
 
 <ul>
   <li>
-    <strong>Présentation PowerPoint — Sécurité machine</strong><br>
-    <a href="http://richard-apn.github.io/files/SHOW-ROOM-SECU-machine-RIRI.ppsx" target="_blank">
+    <strong>FICHE CABLAGE API REP 10</strong><br>
+    <a href="http://https://richard-apn.github.io/files/FICHE%20API%20%20REP%2010.pdf" target="_blank">
       Télécharger le fichier
     </a>
   </li>
