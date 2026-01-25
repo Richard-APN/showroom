@@ -67,7 +67,7 @@ author_profile: true
 </style>
 
 <details>
-<summary class="details-summary">🟩 Vision — Ressources pédagogiques</summary>
+<summary class="details-summary">🟩 Bus et communication — Ressources pédagogiques</summary>
 <div class="details-content">
 
 A implémenter
@@ -75,9 +75,9 @@ A implémenter
 
 <ul>
   <li>
-    <strong>Partie 1 — Modes de marche et d’arrêt</strong><br>
-    <a href="https://richard-apn.github.io/files/ARTICLE%20LINKDIN%20SECU%202%20VER%201.pdf" target="_blank">
-      Télécharger le document PDF
+    <strong>Partie 1 — Communication Modbus TCP/IP</strong><br>
+    <a href="https://richard-apn.github.io/files/COMMUNICATION MODBUS 26 JANVIER 2026.ppsx" target="_blank">
+      Télécharger le fichier
     </a>
   </li>
 </ul>
@@ -104,12 +104,12 @@ A implémenter
 </details>
 
 <details>
-<summary class="details-summary">🟦 Vision — Téléchargements</summary>
+<summary class="details-summary">🟦 Bus et communiction — Téléchargements</summary>
 <div class="details-content" style="background-color:#1565C0;border-color:#1565C0;">
 
 <ul>
   <li>
-    <strong>FICHE CABLAGE CAPTEUR VISION 2D REP 29</strong><br>
+    <strong>Structure des réseaux</strong><br>
     <a href="https://richard-apn.github.io/files/FICHE_CAPTEUR_%20VISION_%202D_REP_29.pdf" target="_blank">
       Télécharger le fichier
     </a>
