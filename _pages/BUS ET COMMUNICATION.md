@@ -5,7 +5,8 @@ author_profile: true
 ---
 
 ---
-<img width="1590" height="778" alt="image" src="https://github.com/user-attachments/assets/cf3fb446-8395-40a2-905e-4d26606def93" />
+<img width="431" height="438" alt="image" src="https://github.com/user-attachments/assets/24ae7efc-bf96-4a1b-af9c-39248ab34615" />
+
 
 ---
 
