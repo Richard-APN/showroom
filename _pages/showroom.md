@@ -127,8 +127,8 @@ Il a été réalisé en conformité avec
 <summary class="details-summary">🟦 Bus et Communication</summary>
 <div class="details-content bus">
 <ul>
-  <li><strong>MODBUS TCP-IP</strong> : serveur PLC NXP2, clients Factory I/O et SARA</li>
-  <li><strong>ETHERCAT</strong> : maître PLC NXP2, esclaves pour broche, plateau, table verticale et sécurité</li>
+  <li><strong>MODBUS TCP-IP</strong> : Serveur : PLC NXP2. Clients : Factory I/O et SARA</li>
+  <li><strong>ETHERCAT</strong> : Maître : PLC NXP2. Ssclaves broche, plateau, table verticale, table rotative et sécurité</li>
 </ul>
 </div>
 </details>
