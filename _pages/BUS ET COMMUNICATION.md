@@ -110,7 +110,7 @@ A implémenter
 <ul>
   <li>
     <strong>Structure des réseaux</strong><br>
-    <a href="https://richard-apn.github.io/files/FICHE_CAPTEUR_%20VISION_%202D_REP_29.pdf" target="_blank">
+    <a href="https://richard-apn.github.io/files/STRUCTURE_DES_RESEAUX_.V1_25_01_2026.pdf" target="_blank">
       Télécharger le fichier
     </a>
   </li>
