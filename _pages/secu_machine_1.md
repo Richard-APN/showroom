@@ -126,8 +126,8 @@ author_profile: true
  
 <ul>
 <li>
-    <strong>Présentation PowerPoint — Sécurité machine</strong><br>
-    <a href="http://richard-apn.github.io/files/SHOW-ROOM-SECU-machine-RIRI.ppsx" target="_blank">
+    <strong>Présentation PowerPoint — Journée du 9 février 2026 IUT Nice GEII 3ème année </strong><br>
+    <a href="http://richard-apn.github.io/files/INTER IUT RIRI GEOFFEY 9 FEVRIER 2026 version finalisee_V2.pdf" target="_blank">
       Télécharger le fichier
     </a>
   </li>
