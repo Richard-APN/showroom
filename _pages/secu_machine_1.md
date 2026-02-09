@@ -125,6 +125,13 @@ author_profile: true
 <div class="details-content" style="background-color:#1565C0;border-color:#1565C0;">
  
 <ul>
+<li>
+    <strong>Présentation PowerPoint — Sécurité machine</strong><br>
+    <a href="http://richard-apn.github.io/files/SHOW-ROOM-SECU-machine-RIRI.ppsx" target="_blank">
+      Télécharger le fichier
+    </a>
+  </li>
+  
   <li>
     <strong>Présentation PowerPoint — Sécurité machine</strong><br>
     <a href="http://richard-apn.github.io/files/SHOW-ROOM-SECU-machine-RIRI.ppsx" target="_blank">
