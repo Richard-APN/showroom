@@ -5,7 +5,8 @@ author_profile: true
 ---
 ----
 <img width="1576" height="800" alt="image" src="https://github.com/user-attachments/assets/7714489c-0ff2-4d95-8d17-07dd4ed7a1e3" />
-![1770216560551](https://github.com/user-attachments/assets/7fda5da9-0103-4277-a530-90d6a6a43ca2)
+
+![1770216560551](https://github.com/user-attachments/assets/b182f786-8548-4f4f-9cba-170550ecfce4)
 
 ----
 Le démonstrateur a été conçu par **Paul Brunetti** et réalisé par une équipe d’ingénieurs en automatismes et en informatique industrielle.
