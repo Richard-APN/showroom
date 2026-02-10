@@ -9,7 +9,7 @@ author_profile: true
 -->
 
 <img width="1063" height="532" alt="PAGE_DE_GARDE_SITE_SHWOROOM" src="https://github.com/user-attachments/assets/fd4c325a-5c11-4df7-a7e6-c519054d772c" />
-<img width="1199" height="728" alt="PAGE_DE_GARDE_SITE_SHWOROOM" src="https://github.com/user-attachments/assets/eb56eae8-3f56-4763-a7da-8dc695dbd583" />
+<!--<img width="1199" height="728" alt="PAGE_DE_GARDE_SITE_SHWOROOM" src="https://github.com/user-attachments/assets/eb56eae8-3f56-4763-a7da-8dc695dbd583" />-->
 
 ----
 Le démonstrateur a été conçu par **Paul Brunetti** et réalisé par une équipe d’ingénieurs en automatismes et en informatique industrielle.
