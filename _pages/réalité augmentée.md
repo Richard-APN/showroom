@@ -119,3 +119,22 @@ A implémenter
 </div>
 </details>
 
+<details>
+<summary class="details-summary">🟨 Réalité augmentée — Fiches</summary>
+<div class="details-content" style="background-color:#1565C0;border-color:#1565C0;">
+
+A implémenter
+
+<!-- 
+<ul>
+  <li>
+    <strong>FICHE CABLAGE SIG 350 REP 18</strong><br>
+    <a href="https://richard-apn.github.io/files/FICHE_SIG_350_REP_18.pdf" target="_blank">
+      Télécharger le fichier
+    </a>
+  </li>  
+ </ul>
+-->
+</div>
+</details>
+
