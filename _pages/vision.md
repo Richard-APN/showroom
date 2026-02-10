@@ -101,12 +101,7 @@ A implémenter
 <div class="details-content" style="background-color:#1565C0;border-color:#1565C0;">
 
 <ul>
-  <li>
-    <strong>FICHE CABLAGE CAPTEUR VISION 2D REP 29</strong><br>
-    <a href="https://richard-apn.github.io/files/FICHE_CAPTEUR_%20VISION_%202D_REP_29.pdf" target="_blank">
-      Télécharger le fichier
-    </a>
-  </li>
+
 
 <!--
   <li>
@@ -118,6 +113,29 @@ A implémenter
  --> 
 </ul>
 
+</div>
+</details>
+
+<details>
+<summary class="details-summary">🟨 Vision — Fiches</summary>
+<div class="details-content" style="background-color:#1565C0;border-color:#1565C0;">
+
+  <li>
+    <strong>FICHE CABLAGE CAPTEUR VISION 2D REP 29</strong><br>
+    <a href="https://richard-apn.github.io/files/FICHE_CAPTEUR_%20VISION_%202D_REP_29.pdf" target="_blank">
+      Télécharger le fichier
+    </a>
+  </li>
+<!-- 
+<ul>
+  <li>
+    <strong>FICHE CABLAGE SIG 350 REP 18</strong><br>
+    <a href="https://richard-apn.github.io/files/FICHE_SIG_350_REP_18.pdf" target="_blank">
+      Télécharger le fichier
+    </a>
+  </li>  
+ </ul>
+-->
 </div>
 </details>
 
