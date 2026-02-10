@@ -160,7 +160,7 @@ author_profile: true
 </details>
 
 <details>
-<summary class="details-summary">🟨 Sécurité machine — fiches</summary>
+<summary class="details-summary">🟨 Sécurité machine — Fiches</summary>
 <div class="details-content" style="background-color:#1565C0;border-color:#1565C0;">
  
 <ul>
