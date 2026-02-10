@@ -7,6 +7,10 @@ author_profile: true
 <!--
 <img width="1063" height="200" alt="image" src="https://github.com/user-attachments/assets/b182f786-8548-4f4f-9cba-170550ecfce4"/>
 -->
+
+<img width="1063" height="532" alt="PAGE_DE_GARDE_SITE_SHWOROOM" src="https://github.com/user-attachments/assets/fd4c325a-5c11-4df7-a7e6-c519054d772c" />
+<img width="1199" height="728" alt="PAGE_DE_GARDE_SITE_SHWOROOM" src="https://github.com/user-attachments/assets/eb56eae8-3f56-4763-a7da-8dc695dbd583" />
+
 ----
 Le démonstrateur a été conçu par **Paul Brunetti** et réalisé par une équipe d’ingénieurs en automatismes et en informatique industrielle.
 Il met en scène des **scénarios issus de situations industrielles réelles** rencontrées sur le terrain.
