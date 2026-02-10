@@ -175,4 +175,53 @@ author_profile: true
 </div>
 </details>
 
+<details>
+<summary class="details-summary">🟨 Sécurité machine — Téléchargements</summary>
+<div class="details-content" style="background-color:#1565C0;border-color:#1565C0;">
+ 
+<ul>
+<li>
+    <strong>Présentation PowerPoint — Journée du 9 février 2026 IUT Nice GEII 3ème année </strong><br>
+    <a href="http://richard-apn.github.io/files/INTER IUT RIRI GEOFFEY 9 FEVRIER 2026 version finalisee_V2.pdf" target="_blank">
+      Télécharger le fichier
+    </a>
+  </li>
+  
+  <li>
+    <strong>Présentation PowerPoint — Sécurité machine</strong><br>
+    <a href="http://richard-apn.github.io/files/SHOW-ROOM-SECU-machine-RIRI.ppsx" target="_blank">
+      Télécharger le fichier
+    </a>
+  </li>
+
+  <li>
+    <strong>Présentation PowerPoint — Machine d’états</strong><br>
+    <a href="http://richard-apn.github.io/files/SHOW-ROOM-UTILISATION-RIRI.ppsm" target="_blank">
+      Télécharger le fichier
+    </a>
+  </li>
+
+ <li>
+    <strong>FICHE CABLAGE FLEXISOFT REP 1</strong><br>
+    <a href="https://richard-apn.github.io/files/FICHE_FLEXISOFT_CONNEXIONS_FILAIRES_REP_1.pdf" target="_blank">
+      Télécharger le fichier
+    </a>
+  </li>
+
+   <li>
+    <strong>FICHE ETHERCAT FLEXISOFT REP 1</strong><br>
+    <a href="http://richard-apn.github.io/files/FICHE_FLEXISOFT_COMMUNICATION_ETHERCAT_REP_1.pdf" target="_blank">
+      Télécharger le fichier
+    </a>
+  </li>
+
+
+  
+</ul>
+
+</div>
+</details>
+
+🟨
+
 
