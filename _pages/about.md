@@ -48,8 +48,8 @@ Bonne visite.
 
 <div id="inscription">
 
-## 📩 Inscription / Demande d'information
-
+📩 
+## Inscription / Demande d'information
 
 Vous souhaitez organiser une visite, obtenir des informations complémentaires ou échanger autour du démonstrateur APN Automation 2026 ?  
 Vous pouvez compléter le formulaire ci-dessous :
