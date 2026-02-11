@@ -31,13 +31,13 @@ Vous y trouverez :
 * des supports pédagogiques,
 * des ressources pour la formation technologique et professionnelle.
 
----
+----
 
 Bonne visite.
 
 <img width="531" height="156" alt="image" src="https://github.com/user-attachments/assets/ad432f36-521a-4830-8f87-ba8f483adb20" />
 
----
+----
 
 <!-- Bouton d'ancrage vers le formulaire -->
 <p style="text-align:center;">
@@ -46,8 +46,6 @@ Bonne visite.
   </a>
 </p>
 
-
-
 <div id="inscription">
 
 ## Inscription / Demande d'information
@@ -55,7 +53,8 @@ Bonne visite.
 Vous souhaitez organiser une visite, obtenir des informations complémentaires ou échanger autour du démonstrateur APN Automation 2026 ?  
 Vous pouvez compléter le formulaire ci-dessous :
 
----
+----
+
 <iframe
   src="https://tally.so/embed/xXYBdG?alignLeft=1&hideTitle=1"
   width="100%"
