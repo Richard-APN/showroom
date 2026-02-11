@@ -36,15 +36,15 @@ Bonne visite.
 
 <img width="531" height="156" alt="image" src="https://github.com/user-attachments/assets/ad432f36-521a-4830-8f87-ba8f483adb20" />
 
----
 
 
-<!-- Bouton d'ancrage vers le formulaire -->
+
+<!-- Bouton d'ancrage vers le formulaire 
 <p style="text-align:center;">
   <a href="#inscription" class="btn" style="background-color:#FFA500; color:white; border-color:#FFA500;">
     S'inscrire / Demander des infos
   </a>
-</p>
+</p>-->
 
 
 ## Inscription / Demande d'information {#inscription}
@@ -62,3 +62,4 @@ Vous pouvez compléter le formulaire ci-dessous :
   marginwidth="0"
   title="Formulaire Showroom APN Automation 2026">
 </iframe>
+---
