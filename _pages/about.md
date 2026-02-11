@@ -37,12 +37,14 @@ Bonne visite.
 
 <img width="531" height="156" alt="image" src="https://github.com/user-attachments/assets/ad432f36-521a-4830-8f87-ba8f483adb20" />
 
+---
+
 <!-- Bouton d'ancrage vers le formulaire -->
 <p style="text-align:center;">
   <a href="#inscription" class="btn btn--primary">S'inscrire / Demander des infos</a>
 </p>
 
----
+
 
 <div id="inscription">
 
