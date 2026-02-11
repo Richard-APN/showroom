@@ -31,7 +31,6 @@ Vous y trouverez :
 * des supports pédagogiques,
 * des ressources pour la formation technologique et professionnelle.
 
----
 
 Bonne visite.
 
@@ -39,7 +38,6 @@ Bonne visite.
 
 ---
 
----
 
 <!-- Bouton d'ancrage vers le formulaire -->
 <p style="text-align:center;">
@@ -48,14 +46,12 @@ Bonne visite.
   </a>
 </p>
 
----
 
 ## Inscription / Demande d'information {#inscription}
 
 Vous souhaitez organiser une visite, obtenir des informations complémentaires ou échanger autour du démonstrateur APN Automation 2026 ?  
 Vous pouvez compléter le formulaire ci-dessous :
 
----
 
 <iframe
   src="https://tally.so/embed/xXYBdG?alignLeft=1&hideTitle=1"
