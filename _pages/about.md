@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Showroom APN AUTOMATION 2026"
+title: "Showroom APN Automation 2026"
 author_profile: true
 ---
 ----
