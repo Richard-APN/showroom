@@ -41,14 +41,15 @@ Bonne visite.
 
 <!-- Bouton d'ancrage vers le formulaire -->
 <p style="text-align:center;">
-  <a href="#inscription" class="btn btn--primary">S'inscrire / Demander des infos</a>
+  <a href="#inscription" class="btn" style="background-color:#FFA500; color:white; border-color:#FFA500;">
+    S'inscrire / Demander des infos
+  </a>
 </p>
 
 
 
 <div id="inscription">
 
-📩 
 ## Inscription / Demande d'information
 
 Vous souhaitez organiser une visite, obtenir des informations complémentaires ou échanger autour du démonstrateur APN Automation 2026 ?  
