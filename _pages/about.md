@@ -39,6 +39,8 @@ Bonne visite.
 
 ---
 
+---
+
 <!-- Bouton d'ancrage vers le formulaire -->
 <p style="text-align:center;">
   <a href="#inscription" class="btn" style="background-color:#FFA500; color:white; border-color:#FFA500;">
@@ -46,7 +48,7 @@ Bonne visite.
   </a>
 </p>
 
-<div id="inscription">
+---
 
 ## Inscription / Demande d'information {#inscription}
 
@@ -64,5 +66,3 @@ Vous pouvez compléter le formulaire ci-dessous :
   marginwidth="0"
   title="Formulaire Showroom APN Automation 2026">
 </iframe>
-
-</div>
