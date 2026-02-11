@@ -37,3 +37,28 @@ Bonne visite.
 
 <img width="531" height="156" alt="image" src="https://github.com/user-attachments/assets/ad432f36-521a-4830-8f87-ba8f483adb20" />
 
+<!-- Bouton d'ancrage vers le formulaire -->
+<p style="text-align:center;">
+  <a href="#inscription" class="btn btn--primary">S'inscrire / Demander des infos</a>
+</p>
+
+---
+
+<div id="inscription">
+
+## 📩 Inscription / Demande d'information
+
+Vous souhaitez organiser une visite, obtenir des informations complémentaires ou échanger autour du démonstrateur APN Automation 2026 ?  
+Merci de compléter le formulaire ci-dessous :
+
+<iframe
+  src="https://tally.so/embed/xXYBdG?alignLeft=1&hideTitle=1"
+  width="100%"
+  height="700"
+  frameborder="0"
+  marginheight="0"
+  marginwidth="0"
+  title="Formulaire Showroom APN Automation 2026">
+</iframe>
+
+</div>
