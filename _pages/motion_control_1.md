@@ -14,7 +14,7 @@ author_profile: true
     * Contrôleur de broche OMRON
     * Variateur de fréquence pour MAS OMRON
     * Contrôleur d’axe moteur pas à pas ETHERCAT SMC
-    * Contrôleur d’axe moteur pas à pas filaire SMC.
+    * Contrôleur d’axe moteur pas à pas filaire SMC
 
 <style>
 .details-summary {
