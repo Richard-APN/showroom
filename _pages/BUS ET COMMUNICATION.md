@@ -15,7 +15,7 @@ author_profile: true
 
 + Les liaisons de la sécurité homme/machine sont réalisées en mode câblé entre les éléments de sécurité et les interfaces FLEXI soft XTIO
 + La passerelle FLEXI soft GETC remonte les informations à l'automate NX1P2 par le bus ETHERCAT
-+ L'automate NX1P2 traite les informations reçues et les dispachent vers le client MODBUS FACTORY I/O pour la réalité virtuelle et vers le client SARA pour la réalité augmentée
++ L'automate NX1P2 traite les informations reçues et les dispache vers le client MODBUS FACTORY I/O pour la réalité virtuelle et vers le client SARA pour la réalité augmentée
 + Le réseau ETHERNET IP permet la supervion sur le pupitre ou sur Soft NA.
 
 <style>
