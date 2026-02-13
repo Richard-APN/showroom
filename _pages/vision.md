@@ -11,7 +11,7 @@ author_profile: true
 # Technique et pédagogie
 
 + La caméra SEC 100 (repère 28) est utilisée pour suivre en temps réél et à distance le déroulement du centre d'usinage
-+ Le capteur vision 2D (repère 29) est utilisé  pour le triage de pièces par IA.
++ Le capteur vision 2D (repère 29) est utilisé  pour le triage de pièces par IA
 
 <style>
 .details-summary {
