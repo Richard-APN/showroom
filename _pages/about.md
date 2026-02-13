@@ -32,7 +32,7 @@ Vous y trouverez :
 * des ressources pour la formation technologique et professionnelle.
 
 
-Bonne visite.
+**Bonne visite.**
 
 <!--<img width="531" height="156" alt="image" src="https://github.com/user-attachments/assets/ad432f36-521a-4830-8f87-ba8f483adb20" />-->
 
