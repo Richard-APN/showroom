@@ -107,8 +107,8 @@ A implémenter
 
 <ul>
   <li>
-    <strong>FICHE CABLAGE API REP 10</strong><br>
-    <a href="https://richard-apn.github.io/files/" target="_blank">
+    <strong>Formation Sysmac Studio</strong><br>
+    <a href="https://richard-apn.github.io/files/Formation Sysmac Studio - APN Automation 2020.pdf" target="_blank">
       Télécharger le fichier
     </a>
   </li>
