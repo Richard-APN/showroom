@@ -105,18 +105,15 @@ A implémenter
 <summary class="details-summary">🟦 Motion control — Téléchargements</summary>
 <div class="details-content" style="background-color:#1565C0;border-color:#1565C0;">
 
-A implémenter
-
-<!--
 <ul>
   <li>
     <strong>FICHE CABLAGE API REP 10</strong><br>
-    <a href="https://richard-apn.github.io/files/FICHE_API_REP_10.pdf" target="_blank">
+    <a href="https://richard-apn.github.io/files/" target="_blank">
       Télécharger le fichier
     </a>
   </li>
 
-
+<!--
  <li>
     <strong>FICHE CABLAGE SERVO DRIVE R88D REP 11</strong><br>
     <a href="https://richard-apn.github.io/files/FICHE_SERVO_DRIVE_R88D_REP_11.pdf" target="_blank">
