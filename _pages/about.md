@@ -34,7 +34,8 @@ Vous y trouverez :
 
 Bonne visite.
 
-<img width="531" height="156" alt="image" src="https://github.com/user-attachments/assets/ad432f36-521a-4830-8f87-ba8f483adb20" />
+<!--<img width="531" height="156" alt="image" src="https://github.com/user-attachments/assets/ad432f36-521a-4830-8f87-ba8f483adb20" />-->
+
 ---
 
 
@@ -62,6 +63,9 @@ Vous pouvez compléter le formulaire ci-dessous :
   marginwidth="0"
   title="Formulaire Showroom APN Automation 2026">
 </iframe>
+
 ---
+
 <img width="531" height="156" alt="image" src="https://github.com/user-attachments/assets/ad432f36-521a-4830-8f87-ba8f483adb20" />
+
 ---
