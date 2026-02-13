@@ -10,7 +10,7 @@ author_profile: true
 
 # Technique et pédagogie
 
-+ Mise en œuvre du logiciel SARA pour un usage standard : visualisation des données sur tablette des capteurs, automates, actionneurs pour la surveillance, le diagnostic, la mise en service de l’environnement.
++ Mise en œuvre du logiciel SARA pour un usage standard : visualisation des données sur tablette des capteurs, automates, actionneurs pour la surveillance, le diagnostic, la mise en service de l’environnement
 
 <style>
 .details-summary {
