@@ -44,7 +44,7 @@ Vous y trouverez :
   <a href="#inscription" class="btn" style="background-color:#FFA500; color:white; border-color:#FFA500;">
     S'inscrire / Demander des infos
   </a>
-</p><!--
+</p>-->
 
 
 ## Inscription / Demande d'information {#inscription}
@@ -64,9 +64,10 @@ Vous pouvez compléter le formulaire ci-dessous :
 </iframe>
 
 ---
+
 <!--
 <img width="531" height="156" alt="image" src="https://github.com/user-attachments/assets/ad432f36-521a-4830-8f87-ba8f483adb20" />
-<!--
+-->
 
 <p style="text-align:center;">
   <img
