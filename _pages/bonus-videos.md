@@ -20,7 +20,7 @@ Triage de pièces par IA – Modèle pédagogique virtuel
 
 
 Le showroom APN Automation, met en scène une gestion de sécurité des zones situées aux abords du plateau tournant, intégrant des dispositifs de contrôle d’approche mettant en œuvre un radar de sécurité, d’arrêts d’urgence conformes aux exigences de sécurité industrielle mettant en œuvre barrière immatérielle de sécurité et BP ATU.
-La sécurité machine n’est pas une contrainte : c’est un levier de performance industrielle durable.
+La sécurité machine n’est pas une contrainte. C’est un levier de performance industrielle durable.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TnVeoh697ZY?si=i9Q8xsnmLR8YIznj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
