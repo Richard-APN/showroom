@@ -16,7 +16,7 @@ Triage de pièces par IA – Modèle pédagogique virtuel
 
 ---
 
-# 🟩 Sécurité machine & maîtrise des zones à risques.
+# 🟩 Sécurité machine & maîtrise des zones à risques
 
 
 Le showroom APN Automation, met en scène une gestion de sécurité des zones situées aux abords du plateau tournant, intégrant des dispositifs de contrôle d’approche mettant en œuvre un radar de sécurité, d’arrêts d’urgence conformes aux exigences de sécurité industrielle mettant en œuvre barrière immatérielle de sécurité et BP ATU.
@@ -26,7 +26,7 @@ La sécurité machine n’est pas une contrainte. C’est un levier de performan
 
 ---
 
-# 🟩 Supervision des modes de marche & conduite du plateau tournant.
+# 🟩 Supervision des modes de marche & conduite du plateau tournant
 
 
 Le showroom de APN Automation, met en scène une supervision qui assure une visualisation des états de fonctionnement du plateau tournant : marche en mode de fonctionnement normal, fonctionnement collaboratif et gestion des arrêts d’urgence.
@@ -35,3 +35,11 @@ Le showroom de APN Automation, met en scène une supervision qui assure une visu
 
 ---
 
+# 🟩 Supervision GRAFECT Production normale
+
+
+Le showroom de APN Automation, met en scène une supervision qui assure une visualisation des états de fonctionnement  du showroom ainsi que les étapes du GRAFCET qui régit la partie opérative de la zone « Motion ».
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wCIdassGO9w?si=Y7LecD8lpgaU8Izs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
